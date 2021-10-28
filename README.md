@@ -4,6 +4,8 @@ Repo of resources created by Terraform to support people doing the AWS Networkin
 
 Follow the Immersion Day [here](https://networking.workshop.aws/) and enable the relevant Terraform resources as you go through the day.
 
+Read my write up on experiencing the Networking Immersion Day [here](https://markrosscloud.medium.com/theres-no-place-like-127-0-0-1-atos-aws-coaching-hub-networking-immersion-day-4534a14abc79).
+
 download repo
 
 run 'terraform init'
