@@ -124,7 +124,7 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_email_address"></a> [email\_address](#input\_email\_address) | Variable to send emails for notifications to | `string` | `"mark.ross@atos.net"` | no |
+| <a name="input_email_address"></a> [email\_address](#input\_email\_address) | Variable to send emails for notifications to | `string` |  | yes |
 | <a name="input_key_name"></a> [key\_name](#input\_key\_name) | Variable for EC2 instance key pair.  Default value is the one the AWS Event engine generates, if you're doing this yourself you need to create one | `string` | `"ee-default-keypair"` | no |
 | <a name="input_region"></a> [region](#input\_region) | Region variable to deploy code into and also used to build up AZ info for AZ specific resources (e.g. subnets) | `string` | `"us-east-1"` | no |
 
