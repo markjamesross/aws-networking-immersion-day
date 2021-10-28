@@ -1,6 +1,6 @@
 # aws-networking-immersion-day
 
-Repo of resources created by Terraform to support people doing the AWS Networking Immersion Day
+Repo of resources created by Terraform to support people doing the AWS Networking Immersion Day.  Note - I've deliberately written this 'ong hand', without using any code saving techniques like modules, for_each or count, and I've hardcoded a number of things to mimic the instructions in the immersion day as I wanted to make it as easy to follow as possible.  Think of it as 'my first Terraform' type standards.
 
 Follow the Immersion Day [here](https://networking.workshop.aws/) and enable the relevant Terraform resources as you go through the day.
 
