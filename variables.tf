@@ -7,6 +7,4 @@ variable "key_name" {
   default = "ee-default-keypair"
 }
 #Variable to send emails for notifications to
-variable "email_address" {
-  default = "mark.ross@atos.net"
-}
+variable "email_address" {}
