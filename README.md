@@ -5,9 +5,13 @@ Repo of resources created by Terraform to support people doing the AWS Networkin
 Follow the Immersion Day [here](https://networking.workshop.aws/) and enable the relevant Terraform resources as you go through the day.
 
 download repo
+
 run 'terraform init'
+
 run terraform apply'
+
 As you go through the labs you need to remove the /* */ around the relevant seciotns of code, or the # lines where policies, NACLs etc. are being toggled
+
 
 ## Requirements
 
